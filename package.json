@@ -29,7 +29,7 @@
     }
   ],
   "dependencies": {
-    "highlight.js": "https://github.com/Switch-Company/highlight-stylus",
+    "highlight.js": "https://github.com/Switch-Company/highlight-stylus/tarball/master",
     "cheerio": "*"
   },
   "devDependencies": {
@@ -39,7 +39,7 @@
     "grunt": "~0.4.0rc2",
     "load-grunt-tasks": "~0.2.0",
     "jshint-stylish": "~0.1.3",
-    "highlight.js": "https://github.com/Switch-Company/highlight-stylus",
+    "highlight.js": "https://github.com/Switch-Company/highlight-stylus/tarball/master",
     "cheerio": "*"
   },
   "scripts": {
